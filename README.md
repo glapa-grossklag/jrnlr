@@ -31,7 +31,7 @@ let g:jrnlr_dir = '~/journal'
   ```vim
   let g:jrnlr_template = '~/template.txt'
   ```
-- To change the file extension on new entries (the default is `.txt`, set
+- To change the file extension on new entries (the default is `.txt`), set
   `g:jrnlr_extension`. For example,
 
   ```vim
